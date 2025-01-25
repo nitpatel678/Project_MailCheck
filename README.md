@@ -1,10 +1,2 @@
 # Project_MailCheck
-Invil Mail
-Invil Mail is a Python-based project designed to verify the validity of email addresses. The project checks if an email address is well-formed, adheres to standard email syntax rules, and can optionally validate domain existence.
-
-Features
-Validate email address format using Python.
-Efficient and lightweight codebase.
-Suitable for integration into larger applications.
-Technologies Used
-Python
+**Invi Mail** is a simple web-based email validation tool designed to check the authenticity of email addresses during user sign-up or registration. The tool evaluates the given email for validity using regex patterns and checks for temporary or disposable email domains. On form submission, it provides real-time feedback through a popup, along with an animated progress bar. This ensures that users input legitimate email addresses, preventing fake or temporary sign-ups. The project is built using HTML, CSS, and JavaScript for a seamless and interactive user experience.
